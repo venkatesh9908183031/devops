@@ -1,0 +1,9 @@
+git
+  maven
+  jenkins
+  sonarqube
+  jfrog
+  AWS 15+
+  docker 
+  kubernetes 
+  terraform etc..........
